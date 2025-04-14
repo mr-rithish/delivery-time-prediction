@@ -10,7 +10,7 @@ This project predicts food delivery time using machine learning. It uses various
 - Distance calculation between restaurant and delivery location
 - Random Forest model for accurate predictions
 
-- ## Performance Metrics
+ ## Performance Metrics
 
 The model achieves the following performance:
 - Mean Squared Error (MSE): 12.45 minutes²
